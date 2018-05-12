@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '32714'
     url: http://www.gutenberg.org/2009/agents/32714
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27482#Domestic-Life-in-Virginia-in-the-Seventeenth-Century
 gutenberg_issued: '2008-12-10'
 gutenberg_type: Text
 identifiers:
