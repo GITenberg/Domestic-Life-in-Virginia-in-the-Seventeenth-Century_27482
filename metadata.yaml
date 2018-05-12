@@ -1,0 +1,26 @@
+_repo: Domestic-Life-in-Virginia-in-the-Seventeenth-Century_27482
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jester, Annie Lash
+    gutenberg_agent_id: '32714'
+    url: http://www.gutenberg.org/2009/agents/32714
+description: ''
+gutenberg_issued: '2008-12-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27482'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Jamestown 350th Anniversary Historical Booklet Number 17
+subjects:
+- !lcsh 'Plantation life'
+- !lcc 'F206'
+- !lcsh 'Virginia -- Social life and customs -- To 1775'
+title: Domestic Life in Virginia in the Seventeenth Century
+url: http://www.gutenberg.org/ebooks/27482
